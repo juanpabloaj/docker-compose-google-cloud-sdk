@@ -1,6 +1,6 @@
 # alpine-docker-google-cloud-sdk
 
-### Usage
+Usage
 
 Set env variable with your credentials
 
