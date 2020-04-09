@@ -2,7 +2,7 @@
 
 Usage
 
-Set env variable with your credentials
+Set environment variable with your credentials
 
     GCLOUD_SERVICE_KEY
 
